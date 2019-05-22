@@ -31,6 +31,6 @@ booklit \
   --plugin github.com/vito/booklit/chroma/plugin
 ```
 
-then browse the generated docs from `./docs/index.html`.
+then browse the generated docs from `./docs/index.html`. t
 
 you can see the result at https://vito.github.io/booklit
